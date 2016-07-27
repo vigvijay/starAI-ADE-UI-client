@@ -1,0 +1,15 @@
+#textarea, #resultarea{
+  width: 1000px;
+  height: 140px;
+  overflow: scroll;
+}
+.ade{
+padding-top: 10px;
+}
+.form-group{
+  height: 40px;
+  padding-top: 10px;
+}
+#select2, #search{
+  width: 40%;
+}
